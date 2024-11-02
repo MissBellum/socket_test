@@ -1,0 +1,15 @@
+{
+  "name": "socket_test",
+  "version": "1.0.0",
+  "description": "Testing web sockets for chat app",
+  "main": "socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
