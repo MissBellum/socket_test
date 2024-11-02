@@ -1,5 +1,6 @@
 const ws = new require('ws');
 const wss = new ws.Server({noServer: true});
+const http = require('http');
 
 const clients = new Set();
 
